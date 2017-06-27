@@ -85,7 +85,6 @@ def when_was_top_sold_fps(file_name):
         return year
 
 
-# returns the number of the games in the input file
 
 
 def count_games(file_name):
